@@ -19,7 +19,7 @@ spec:
         - ../../overrides/bootstrap/test-cluster.yaml
     path: charts/app-of-apps
     repoURL: https://github.com/Nicolas-Richard/mani-diffy.git
-    targetRevision: HEAD
+    targetRevision: fix
   syncPolicy:
     syncOptions:
       - CreateNamespace=true

@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Nicolas-Richard/mani-diffy.git
-    targetRevision: HEAD
+    targetRevision: fix
 
     path: charts/app-of-apps
     helm:
