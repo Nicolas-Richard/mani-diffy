@@ -13,7 +13,7 @@ spec:
     repoURL: https://github.com/Nicolas-Richard/mani-diffy.git
     targetRevision: HEAD
 
-    path: demo/charts/app-of-apps
+    path: charts/app-of-apps
     helm:
       parameters:
         - name: renderBaseDir

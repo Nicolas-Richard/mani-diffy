@@ -17,7 +17,7 @@ spec:
           value: /zz.auto-generated/root
       valueFiles:
         - ../../overrides/bootstrap/test-cluster.yaml
-    path: demo/charts/app-of-apps
+    path: charts/app-of-apps
     repoURL: https://github.com/Nicolas-Richard/mani-diffy.git
     targetRevision: HEAD
   syncPolicy:
