@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Nicolas-Richard/mani-diffy.git
-    path: charts/service
+    path: demo/charts/service
     helm:
       version: v3
       parameters:
